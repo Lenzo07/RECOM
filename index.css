@@ -122,10 +122,10 @@ body {
 }
 
 .geners {
-    font-size: 50px;
+    font-size: 30px;
     text-align: center;
     font-weight: bolder;
-    color: yellow;
+    color: white;
     font-family: lemon milk;
     background-image: url(buttonbg.jpg);
     background-size: cover;
